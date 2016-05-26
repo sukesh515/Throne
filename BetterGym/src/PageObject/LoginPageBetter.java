@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class LoginPageBetter {
 
+	// This is a login CLass
 	WebDriver driver;
 
 			
