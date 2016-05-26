@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation for BadmintonBooking">
+
+<test name="Smoke TestCases">
+
+<classes>
+<class name ="TestCases.TestLogin"/>
+<class name ="TestCases.Logout"/>
+
+</classes>
+</test>
+
+</suite>
